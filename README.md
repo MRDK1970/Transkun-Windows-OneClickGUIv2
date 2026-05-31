@@ -1,7 +1,7 @@
 ﻿# Transkun Windows OneClick GUI v2
 
-Windows x64 one-click wrapper for Transkun piano audio-to-MIDI conversion.
-**本项目仅对 Transkun 做 Windows 一键运行封装，不修改其核心算法。 | This project is a Windows one-click wrapper around Transkun and does not change Transkun core algorithms.**  
+Windows x64 one-click wrapper for Transkun piano audio-to-MIDI conversion. | 基于 Transkun： 钢琴音频到 MIDI 转换的 Windows x64 一键式封装程序。
+**本项目仅对 Transkun 做 Windows 一键运行封装，不修改其核心算法。所有功劳归于原作者。详细信息请参照项目中的USER_GUIDE与AGENTS文件。 | This project is a Windows one-click wrapper around Transkun and does not change Transkun core algorithms. All credit foes to the original author. For detailed information, please refer to the USER_GUIDE and AGENTS files in the project.**  
 **Transkun upstream: https://github.com/yujia-yan/transkun**
 
 > [!IMPORTANT]
