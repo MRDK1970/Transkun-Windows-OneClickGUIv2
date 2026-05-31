@@ -1,0 +1,22 @@
+﻿# Generated and runtime artifacts
+logs/
+output/
+temp/
+runtime/
+.transkun_runtime_ok
+dist/
+*.7z
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Optional local environment clutter
+*.log
+
+# Large runtime/model assets are distributed via GitHub Releases
+transkun/pretrained/*.pt
+
+# Optional binary launcher (release asset, not source)
+Transkun GUI.exe
